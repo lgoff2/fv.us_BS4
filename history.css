@@ -1,0 +1,13 @@
+
+div.card {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.carousel-inner card {
+  margin: auto;
+}
